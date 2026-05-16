@@ -24,7 +24,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/KernelSanders-DFIR/ciphervault.git
+git clone https://github.com/CoderPratap-dev/ciphervault.git
 cd ciphervault
 pip install -r requirements.txt
 ```
